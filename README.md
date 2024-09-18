@@ -34,14 +34,15 @@ I'm currently working on a **TrailBlazer App**, utilizing LLMs to generate custo
 
 ### Fun Facts
 - I have a cat named **Maisy**! 🐱 (She's the one in my profile picture rocking a cone).
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" height="300" />
+  
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
+
 - In my free time, I love drawing and creating digital art! 🎨
 
 ---
 
 ### GitHub Stats 📊
 
-![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathan-oliveira&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-oliveira&layout=compact&theme=radical)](https://github.com/nathan-oliveira/github-readme-stats)
 
 ---
