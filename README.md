@@ -1,5 +1,7 @@
 # Hi, I'm Nathan Abreu De Oliveira! 👋
 
+![Welcome GIF](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+
 [![GitHub followers](https://img.shields.io/github/followers/nathan-oliveira?label=Follow&style=social)](https://github.com/nathan-oliveira) 
 [![GitHub stars](https://img.shields.io/github/stars/nathan-oliveira?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/nathan-oliveira) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan%20Oliveira-blue)](https://www.linkedin.com/in/nathan-oliveira-se)
@@ -7,8 +9,9 @@
 ---
 
 ### About Me
-
 I am a dedicated Software Engineer with a strong foundation in both data science and software development. My experience as a Data Scientist at the **Lewis Research Group** allowed me to create scalable methods for analyzing complex bacterial infection datasets, improving patient survival prediction models with machine learning, and contributing to future medical research. 
+
+![Coding GIF](https://media.giphy.com/media/3o7aCU5RsfGQg5dnxK/giphy.gif)
 
 Currently, I am pursuing my **Master of Engineering in Software Engineering**, where I am expanding my skills in programming, system analysis, and software architecture. I have a passion for building robust, user-focused applications, and love working with cutting-edge technologies to create dynamic, engaging user experiences.
 
@@ -35,12 +38,14 @@ I'm currently working on a **TrailBlazer App**, utilizing LLMs to generate custo
 
 ### Fun Facts
 - I have a cat named **Maisy**! 🐱 (She's the one in my profile picture rocking a cone).
+![Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 - In my free time, I love drawing and creating digital art! 🎨
 
 ---
 
 ### GitHub Stats 📊
 
+![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathan-oliveira&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-oliveira&layout=compact&theme=radical)](https://github.com/nathan-oliveira/github-readme-stats)
 
 ---
