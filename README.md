@@ -2,7 +2,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/nathan-oliveira?label=Follow&style=social)](https://github.com/nathan-oliveira) 
 [![GitHub stars](https://img.shields.io/github/stars/nathan-oliveira?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/nathan-oliveira) 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=nathan-oliveira)](https://github.com/nathan-oliveira) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan%20Oliveira-blue)](https://www.linkedin.com/in/nathan-oliveira-se)
 
 ---
