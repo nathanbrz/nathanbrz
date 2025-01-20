@@ -48,4 +48,5 @@ I'm currently working on a **TrailBlazer App**, utilizing LLMs to generate custo
 ---
 
 ### Let's Connect 🌐
+[![Website](https://img.shields.io/badge/Website-oliveiratech.vercel.app-blue)](https://oliveiratech.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan%20Oliveira-blue)](https://www.linkedin.com/in/nathan-oliveira-se)
